@@ -26,7 +26,7 @@
 				<source url="https://github.com/CocoaPods/Specs.git"/>
 			</config>
             <pods use-frameworks="true">
-                <pod name="GoogleMLKit/BarcodeScanning" spec="8.0.0"/>
+                <pod name="GoogleMLKit/BarcodeScanning" spec="7.0.0"/>
             </pods>
         </podspec>
         <header-file src="src/ios/CDViOSScanner.h"/>
